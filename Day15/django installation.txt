@@ -1,0 +1,22 @@
+\\ installaing the virtualenv(if there is not installing virtualenv)
+
+pip install virtualenv
+virtualenv myenv
+myenv\Scripts\activate
+python -v
+pip list  # Showing the list
+
+//
+
+\\ installaing the Django Framework
+
+pip install Django
+pip list   # Showing the list of installation
+pip freeze # Showing the list of requirements
+
+asgiref==3.4.1
+Django==3.2.6
+pytz==2021.1
+sqlparse==0.4.1
+
+//

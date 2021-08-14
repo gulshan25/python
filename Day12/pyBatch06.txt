@@ -1,0 +1,5 @@
+Hello World !This is our new txt file !And this is another line !This is write mode !
+Hello World !
+This is our new txt file !
+And this is another line !
+This is write mode !
